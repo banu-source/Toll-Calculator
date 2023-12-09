@@ -1,0 +1,16 @@
+{
+  "name": "toll-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "application.js",
+  "scripts": {
+    "start": "application.js",
+    "test": "cypress run",
+    "test:coverage": "cypress run --env coverage=true"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.1"
+  }
+}
